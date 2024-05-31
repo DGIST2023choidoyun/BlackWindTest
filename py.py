@@ -1,2 +1,5 @@
 print("Hellow World!")
-print("asd")
+
+a = 1
+b = 2
+print(a + b)
